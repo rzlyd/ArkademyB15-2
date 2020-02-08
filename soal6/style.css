@@ -1,0 +1,20 @@
+.navbar-brand img {
+  padding-right: 15px;
+}
+
+.table tr th, .table tr td {
+  text-align: center;
+}
+
+.btn {
+  text-transform: uppercase;
+}
+
+.btn-add {
+  float: right;
+  margin-bottom: 10px;
+}
+
+.btn-warning {
+  color: #fff;
+}
